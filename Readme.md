@@ -1,14 +1,29 @@
 <h1>Hi there, I am Rajat 👋</h1>
 
- <img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="500" height="345" />
+<img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="500" height="345" />
  
  ![](https://komarev.com/ghpvc/?username=your-github-GetRajatTanwar)
 
-I am Rajat Tanwar from India who is web developer. I am always ready to learn new things :D 
+I am Rajat Tanwar from India who is web developer and . I am always ready to learn new things :D <br>
 - 🌱 I’m currently learning everything!
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am very boring<br>
+- 💹 Good knowledge of Stock Market & Future Technical Analyst
+- ⚡ Fun fact: I am very <br>
+
+
+!-- <div align='center'>
+
+<br />
+ <hr/>
+ 
+ ### Spotify Playing 🎧
+
+[<img src="https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1?si=efe65769a8394d5c" alt="Theseregrets Spotify Playing" width="350" />](https://open.spotify.com/user/53cuaxr9ty26r6ze7msorj288)
+
+</div>
+
+ -->
 
 <h2>📫 Social Media Handles</h2>
 
