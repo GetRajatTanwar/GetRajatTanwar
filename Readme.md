@@ -7,8 +7,8 @@
 I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 - 🌱 I’m currently learning Everything!
 - 💬 Ask me about Anything
-- 😄 Pronouns: He/him
 - 💹 Good knowledge of Stock Market & Future Technical Analyst
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: I am Spider Man... 
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/rajat.tanwar.127) 
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/getrajattanwar-01/) 
