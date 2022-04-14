@@ -45,22 +45,33 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 <br />
 <hr/>
 
+<div align="center">
 
-<h3>📫 Social Media Handles</h3>
-<div align='center'>
-
-[![Visits Badge](https://badges.pufler.dev/visits/GetRajatTanwar/GetRajatTanwar)](https:GetRajatTanwar.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/007rajat_tanwar)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/__the.ambivert.kid__/)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/getrajattanwar-01//)
-
-
-<h2>⚡ Github Stats</h2>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetRajatTanwar&theme=dark" />
  
-<br> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=GetRajatTanwar&theme=dark" /> </br>
+ ### GitHub Stats
 
-<h2>💬 Skills</h2>
+ <img  alt="Rajat's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=GetRajatTanwar&theme=dark" />
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+</div>
+<div align="center">
+ <hr/>
+
+<h3> Most Used Language</h3>
+<div align="center">
+<br> 
+     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetRajatTanwar&theme=dark" /> 
+</br>
+
+![GitHub Activity Graph](https://raw.githubusercontent.com/ishikkkkaaaa/ishikkkkaaaa/output/github-contribution-grid-snake.svg)  
+
+ <details>
+<summary>Detailed Summary</summary>
+<br>
+  
+![Metrics](https://metrics.lecoq.io/GetRajatTanwar?template=classic&languages=1&people=1&introduction=1&followup=1&activity=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction.title=true&config.timezone=Asia%2FCalcutta)
+    
+</details>
+
+ 
+made with ❄️ by Rajat...
+
