@@ -61,6 +61,14 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 <br> 
      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GetRajatTanwar&theme=dark" /> 
 </br>
+ 
+ ### Trophy:
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+</div>
+<br/>
+ <hr/>
+ <br/>
 
 ![GitHub Activity Graph](https://raw.githubusercontent.com/ishikkkkaaaa/ishikkkkaaaa/output/github-contribution-grid-snake.svg)  
 
