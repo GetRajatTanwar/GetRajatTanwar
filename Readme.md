@@ -76,3 +76,5 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
  
 made with ❄️ by Rajat...
 
+ <h3 align=center>Hardwork is worthless for those that don't believe in themselves... <br>
+ Stay Awesome and Happy Hacking!!!</h3>
