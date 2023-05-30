@@ -33,7 +33,7 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="45" height="45"/> 
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/material-ui.svg" alt="xd" width="45" height="45"/> 
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="xd" width="45" height="45"/> 
-<img align="center" src="file:///C:/Users/pc/Downloads/servicenow-2.svg" alt="xd" width="45" height="45"/> 
+<img align="center" src="https://seeklogo.com/vector-logo/480209/servicenow" alt="xd" width="45" height="45"/> 
  
 
  <br />
