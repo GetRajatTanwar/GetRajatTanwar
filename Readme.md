@@ -10,11 +10,10 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 - 💹 Good knowledge of Stock Market & Future Technical Analyst
 - 😄 ServiceNow Developer
 - ⚡ Fun fact: I am Spider Man... 
-- 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logo/meta-1" width="30px" alt="facebook"/> ](https://www.facebook.com/rajat.tanwar.127) 
- [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="linkedin"/> ](https://www.linkedin.com/in/getrajattanwar-01/) 
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/007rajat_tanwar)
-[<img align="center" src="https://cdn.worldvectorlogo.com/logo/instagram-2016-5" width="30px" alt="instagram
- "/> ](https://www.instagram.com/__the.ambivert.kid__/)<br>
+- 📫 How to reach me: <a href="https://twitter.com/ishikakesarwan4" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ishika-kesarwani-3b32811a6/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="ishika kesarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
+</p>
  
 <h2>🛠️ Languages and Tools </h2>
 
