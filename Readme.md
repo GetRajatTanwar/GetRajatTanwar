@@ -1,7 +1,7 @@
 <h1>Hi there, I am Rajat <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="35"
-         width="35" /></h1>
+         height="45"
+         width="45" /></h1>
 
 <img align="right" alt="GIF" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="500" height="245" />
  
