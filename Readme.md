@@ -46,6 +46,20 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 <br />
 <hr/>
 
+## 💻Tech Stack
+
+- **Languages:** JavaScript, HTML, CSS, SQL
+- **Frameworks and modules:** , Bootstrap
+- **Tools:** Git, VS Code, ServiceNow
+- **Databases:** MongoDB, Firebase
+- **Operating System:** Windows, Mac
+
+## 👨🏼‍💻 Projects
+- [Krypton](https://krypton-azure.vercel.app//)
+- [CryptoManiac](https://crypto-maniac-agr.netlify.app/)
+- [Shotflix](https://shotflix.vercel.app)
+- [Portfolio](https://rajattanwarportfolio.vercel.app/)
+
 <div align="center">
 
  
