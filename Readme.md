@@ -49,7 +49,7 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 ## 💻Tech Stack
 
 - **Languages:** JavaScript, HTML, CSS, SQL
-- **Frameworks and modules:** , Bootstrap
+- **Frameworks:** Bootstrap
 - **Tools:** Git, VS Code, ServiceNow
 - **Databases:** MongoDB, Firebase
 - **Operating System:** Windows, Mac
