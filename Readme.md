@@ -12,7 +12,7 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 - ⚡ Fun fact: I am Spider Man... 
 - 📫 How to reach me: <a href="https://twitter.com/007rajat_tanwar" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="007rajat_tanwar" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/getrajattanwar-01/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="getrajattanwar-01" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/__the.ambivert.kid__" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="__the.ambivert.kid__" height="30" width="30" /></a>
+<a href="https://instagram.com/__the.ambivert.kid__" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="__the.ambivert.kid__" height="30" width="30" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/rajat.tanwar.127" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" alt="rajat.tanwar.127" height="30" width="30" /></a>
  
 <h2>🛠️ Languages and Tools </h2>
