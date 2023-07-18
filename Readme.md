@@ -14,7 +14,6 @@ I am Rajat Tanwar from India who is web developer and I am Vengeance!! :D <br>
 <a href="https://www.linkedin.com/in/getrajattanwar-01/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="getrajattanwar-01" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/__the.ambivert.kid__" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="__the.ambivert.kid__" height="30" width="30" /></a>
 <a href="https://www.facebook.com/rajat.tanwar.127" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook-new.png" alt="rajat.tanwar.127" height="30" width="30" /></a>
-</p>
  
 <h2>🛠️ Languages and Tools </h2>
 
